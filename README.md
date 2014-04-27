@@ -1,5 +1,7 @@
 # Déagol - A static documentation generator with search
 
+> Déagol is a work-in-progress. The below README is a decription of what will become `v1.0.0`. Please feel free to contribute and/or try `master` out in the meantime!
+
 Déagol is a tool for generating static documentation. It takes a [Gollum wiki](https://github.com/gollum/gollum) in, and a static site comes out. Déagol adds many desirable features atop the normal Gollum wiki:
 
 * **Generates Static Output** - The output from Déagol is completely static HTML, allowing you to distribute and host your documentation easily.
