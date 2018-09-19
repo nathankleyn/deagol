@@ -15,11 +15,10 @@ Gem::Specification.new do |spec|
   spec.require_path = 'lib'
   spec.bindir = 'bin'
 
-  spec.add_dependency('execjs', '~>2.0.2')
-  spec.add_dependency('github-markdown', '~>0.6.5')
-  spec.add_dependency('gollum-lib', '~>3.0.0')
-  spec.add_dependency('liquid', '~>2.6.1')
+  spec.add_dependency('execjs', '~>2.7.0')
+  spec.add_dependency('gollum-lib', '~>4.1.3')
+  spec.add_dependency('liquid', '~>4.0.0')
 
-  spec.add_development_dependency('cucumber', '~>1.3.14')
-  spec.add_development_dependency('rspec', '~>2.14.1')
+  spec.add_development_dependency('cucumber', '~>3.1.2')
+  spec.add_development_dependency('rspec', '~>3.8.0')
 end

@@ -12,7 +12,7 @@ Déagol is a tool for generating static documentation. It takes a [Gollum wiki](
 
 ## Quick Start
 
-Make sure you have Ruby v1.9+ (tested on `v2.1.1`), and install Déagol via RubyGems:
+Install Déagol via RubyGems:
 
 ```sh
 gem install deagol
